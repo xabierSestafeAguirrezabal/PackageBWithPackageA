@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "packageapublicxcframework",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/xabierSestafeAguirrezabal/PackageAPublicXCframework.git",
+      "state" : {
+        "revision" : "7a7356a361dd49638f109d67dc206ce7c286a1f1",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 2
+}
